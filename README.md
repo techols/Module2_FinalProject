@@ -6,10 +6,12 @@ Group members : Harkirat Kaur & Pauline Dhenin
  - [Problematic](#Problematic)
  - [Workflow](#Worflow)
  - [Datasets](#Datasets)
- - [Usefull links](#Usefull_links)
+ - [links](#links)
 
 ## Problematic 
 In this project, the problematic we analyzed is the following : 
 
 ## Workflow 
 
+Links 
+https://docs.google.com/presentation/d/197uOQfjrxCVhw07oA8qLEQpgwHJq-rQM4I1IqAV6eVY/edit?usp=sharing
