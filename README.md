@@ -1,7 +1,7 @@
 # Module2_FinalProject
 Ironhack Data Analysis Bootcamp Fall 2021 - Spring 2022 Module 2 Final Project
 # Airline Passengers satisfaction data visualization and analyzis
-Group members : Harkirat Kaur & Pauline Dhenin
+Group members : Pauline Dhenin & Taler Echols 
 # Summary 
  - [Problematic](#Problematic)
  - [Workflow](#Worflow)
