@@ -5,7 +5,6 @@ Group members : Pauline Dhenin & Taler Echols
 
 # Summary 
  - [Problematic](#Problematic)
- - [Workflow](#Worflow)
  - [Dataset](#Dataset)
  - [Links](#Links)
 
