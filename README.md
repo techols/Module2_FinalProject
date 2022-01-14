@@ -23,5 +23,5 @@ The original dataset contains about 130,000 survey entries and passenger/flight 
 ## Links 
 * <a href="https://docs.google.com/presentation/d/1TvHM9_zFry71FRuHY2K-dA0COpvi9J9NjG5YozxwvN8/edit?usp=sharing" >Presentation</a>
 * <a href="">Tableau</a> 
-* <a href="https://raw.githubusercontent.com/techols/Module2_FinalProject/main/airlineV2.html >Pandas Profiling Report</a> : please download for file to load
+* <a href="https://raw.githubusercontent.com/techols/Module2_FinalProject/main/airlineV2.html" >Pandas Profiling Report</a> : please download for file to load
 * <a href="https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction"> Kaggle Database </a> 
