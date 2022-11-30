@@ -15,7 +15,7 @@ In this project, the problematic we analyzed is the following : what are the dif
 
 
 ## Dataset 
-The original dataset contains about 130,000 survey entries and passenger/flight details from an airline. In total, there are 21 feature columns and 1 binary target column. 14 are survey entries where passengers rate the flight experience on a scale of 1 to 5. However, as there were also some survey entries with a score of 0, which were mentionnend on Kagel as non applicable note, we decided to remove these survey entries and some NaN values. After removing all these data, the dataset contain now around 70,000 entries. Some data were also changted (such as the datatype and the values) for more clarity and better analyzis. An explanation of each columns and type of data is available in the codebook that can be found in this GitHub. 
+The original dataset contains about 130,000 survey entries and passenger/flight details from an airline. In total, there are 21 feature columns and 1 binary target column. 14 are survey entries where passengers rate the flight experience on a scale of 1 to 5. However, as there were also some survey entries with a score of 0, which were mentionnend on Kagel as non applicable note, we decided to remove these survey entries and some NaN values. After removing all these data, the dataset contain now around 70,000 entries. Some data were also changed (such as the datatype and the values) for more clarity and better analyzis. An explanation of each columns and type of data is available in the codebook that can be found in this GitHub. 
 
 
 
